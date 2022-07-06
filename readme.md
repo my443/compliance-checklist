@@ -10,6 +10,7 @@ There are two components to **Compliance Checklist**
 
 1. Checklist Items
 2. Checklists
+3. Checklist Templates
 
 ## Checklist item
 
@@ -30,9 +31,12 @@ There are no **Checklist Items** that appear outside of a checklist.
 A **Checklist** is a 'page' of **Checklist Items**.
 This is kind of like an airplane pilot's checklist or a repeating todo list that you might have. 
 
-A **Checklist** is generated from a **Checklist Template**. The **Checklist Template** is a 'cookie-cutter' of all of the items that should appear on a new checklist. 
-
 A checklist generally will only be considered complete when all of the **Checklist Items** that make up the list can be completed.
+
+## Checklist Template
+
+The **Checklist Template** is a 'cookie-cutter' of all of the items that should appear on a new checklist. 
+A **Checklist** is generated from a **Checklist Template**. 
 
 #### Examples of Checklist
 * Some business units have 'shift-duties' lists which are a repeating checklist of things that might be done.
