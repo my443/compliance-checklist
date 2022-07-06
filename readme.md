@@ -38,7 +38,9 @@ A checklist generally will only be considered complete when all of the **Checkli
 The **Checklist Template** is a 'cookie-cutter' of all of the items that should appear on a new checklist. 
 A **Checklist** is generated from a **Checklist Template**. 
 
-#### Examples of Checklist
+## Examples of Checklists
+
+I am sure that there amy many places that you can think of to use the checklist. Here are a few ideas that I have:
 * Some business units have 'shift-duties' lists which are a repeating checklist of things that might be done.
 * A cleaning checklist for a building or area could be a checklist
 * A vehicle walk-around could be a checklist that is completed regularly.  
